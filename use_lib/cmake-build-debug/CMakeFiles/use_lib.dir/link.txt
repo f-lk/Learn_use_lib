@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++0x -g   CMakeFiles/use_lib.dir/main.cpp.o  -o use_lib -Wl,-rpath,/tmp/lib /tmp/lib/libout.so 
