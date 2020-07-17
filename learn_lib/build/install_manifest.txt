@@ -1,0 +1,5 @@
+/tmp/lib/libout.so.1.0
+/tmp/lib/libout.so.1
+/tmp/lib/libout.so
+/tmp/lib/test/libout.a
+/tmp/include/test/main.h

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libout.a  CMakeFiles/static_out.dir/main.cpp.o
+/usr/bin/ranlib ../lib/libout.a

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flk/桌面/代码/练习代码/learn_lib/main.cpp
+main.h
+/home/flk/桌面/代码/练习代码/learn_lib/main.h
+
+/home/flk/桌面/代码/练习代码/learn_lib/main.h
+iostream
+-
+

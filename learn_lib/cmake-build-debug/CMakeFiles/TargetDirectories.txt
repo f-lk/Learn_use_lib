@@ -1,0 +1,8 @@
+/home/flk/桌面/代码/练习代码/learn_lib/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/flk/桌面/代码/练习代码/learn_lib/cmake-build-debug/CMakeFiles/install/local.dir
+/home/flk/桌面/代码/练习代码/learn_lib/cmake-build-debug/CMakeFiles/static_out.dir
+/home/flk/桌面/代码/练习代码/learn_lib/cmake-build-debug/CMakeFiles/out.dir
+/home/flk/桌面/代码/练习代码/learn_lib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/flk/桌面/代码/练习代码/learn_lib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/flk/桌面/代码/练习代码/learn_lib/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/flk/桌面/代码/练习代码/learn_lib/cmake-build-debug/CMakeFiles/install.dir
